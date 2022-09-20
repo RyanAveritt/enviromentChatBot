@@ -13,8 +13,8 @@ Project vision (Geoffry Moore Template):
 ```
 
 ```
-Repository: 
-Configuration Management: 
+Repository: https://github.com/RyanAveritt/enviromentChatBot
+Configuration Management: Circleci
 Configure Master Branch: done (main)
 Code Analyzer: Sonarcloud
 Project management tool: Jira
