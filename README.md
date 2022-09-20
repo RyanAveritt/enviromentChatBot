@@ -15,7 +15,7 @@ Project vision (Geoffry Moore Template):
 ```
 Repository: 
 Configuration Management: 
-Configure Master Branch: 
-Code Analyzer: 
+Configure Master Branch: done (main)
+Code Analyzer: Sonarcloud
 Project management tool: Jira
 ```

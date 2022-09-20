@@ -1,0 +1,25 @@
+{
+  "name": "enviromentchatbot",
+  "version": "1.0.0",
+  "description": "A chat bot to inform about the enviroment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanAveritt/enviromentChatBot.git).git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Ryan Averitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanAveritt/enviromentChatBot.git)/issues"
+  },
+  "homepage": "https://github.com/RyanAveritt/enviromentChatBot.git)#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
